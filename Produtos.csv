@@ -1,0 +1,13 @@
+id;nome;marca;preço;categoria
+1;"Shampoo hidratante";Dove;22.90;1
+2;"Condicionador hidratante";Dove;25.90;1
+3;"Máscara hidratante";Dove;32.90;1
+4;"Esmalte vermelho";Risqué;4.90;2
+5;"Esmalte azul";Risqué;4.90;2
+6;Acetona;Impala;2.90;2
+7;"Sabonete facial";Vult;27.80;3
+8;"Tônico facial";Neutrogena;17.70;3
+9;"Hidratante facial";Lóreal;32.50;3
+10;"Hidratante corporal";Natura;45.60;4
+11;"Esfoliante corporal";Avon;14.99;4
+12;"Sabonete corporal";Dove;16.50;4
